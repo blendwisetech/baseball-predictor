@@ -1,0 +1,36 @@
+{
+  "production": {
+    "win_model_path": "data/models/win_gbr.joblib",
+    "runs_model_path": "data/models/runs_mor.joblib",
+    "props_model_path": null,
+    "win_model_version": "hgbm_win_cal_2026-05-29",
+    "runs_model_version": "mor_runs_2026-05-13",
+    "props_model_version": "heuristic_v1",
+    "win_blend_weight": 0.0,
+    "home_win_threshold": 0.33,
+    "trained_on_through": "2026-05-11",
+    "notes": "Pick = max P(win). home_win_threshold is training/eval only. Edit betting + soften/cap here; re-run projections after calibration changes.",
+    "win_prob_soften": 0.45,
+    "win_prob_abs_cap": 0.32,
+    "win_temperature": 1.1,
+    "win_marginal_lambda": 0.15,
+    "win_marginal_gamma": 0.5355191256830601,
+    "betting": {
+      "min_edge_pct": 2.0,
+      "max_edge_pct": 10.0,
+      "min_pick_prob": 0.52,
+      "kelly_scale": 0.25,
+      "cap_per_bet": 0.04,
+      "max_slate_exposure": 0.2
+    }
+  },
+  "training": {
+    "min_rows_win": 80,
+    "min_rows_runs": 80,
+    "rolling_seasons": 3,
+    "win_marginal_lambda_floor": 0.15,
+    "win_marginal_lambda_floor_note": "Minimum \u03bb toward training home-win rate after isotonic+temperature.",
+    "win_temperature_floor": 1.1,
+    "win_temperature_floor_note": "Minimum logit temperature T (\u22651). Set 1.0 to disable."
+  }
+}

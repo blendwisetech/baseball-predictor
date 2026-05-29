@@ -1,0 +1,11 @@
+# 1.36+ improves widget identity / fragment behavior (fewer blank-page + Button chunk issues).
+streamlit>=1.36.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+pyarrow>=14.0.0
+requests>=2.31.0
+# Optional: Statcast helpers only; core app uses MLB Stats API (FanGraphs often 403s scrapers).
+pybaseball>=2.2.7

@@ -1,0 +1,15 @@
+# Local dev: fewer moving parts for static asset / chunk loading issues.
+# See: https://docs.streamlit.io/library/advanced-features/configuration
+
+[browser]
+gatherUsageStats = false
+
+[server]
+# Dedicated port so this app does not fight other local Streamlit apps (default 8501).
+port = 8510
+# Helps some corporate proxies; tune if you need CORS for remote embedding.
+enableCORS = false
+
+[runner]
+# Avoid surprising auto-reruns while widgets settle (can interact badly with some browsers).
+fastReruns = false

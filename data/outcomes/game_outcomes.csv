@@ -1,0 +1,277 @@
+gamePk,gameDate,home_id,away_id,home_name,away_name,home_score,away_score,home_win,total_runs
+824851,2026-04-25T16:05:00Z,110,111,Baltimore Orioles,Boston Red Sox,1,17,0,18
+823070,2026-04-25T18:15:00Z,138,136,St. Louis Cardinals,Seattle Mariners,9,11,0,20
+822826,2026-04-25T19:07:00Z,141,114,Toronto Blue Jays,Cleveland Guardians,5,3,1,8
+823229,2026-04-25T20:05:00Z,137,146,San Francisco Giants,Miami Marlins,6,2,1,8
+822989,2026-04-25T20:10:00Z,139,142,Tampa Bay Rays,Minnesota Twins,6,1,1,7
+824613,2026-04-25T20:10:00Z,145,120,Chicago White Sox,Washington Nationals,3,6,0,9
+825093,2026-04-25T22:05:00Z,109,135,Arizona Diamondbacks,San Diego Padres,4,6,0,10
+822910,2026-04-25T23:05:00Z,140,133,Texas Rangers,Athletics,4,3,1,7
+824121,2026-04-25T23:10:00Z,118,108,Kansas City Royals,Los Angeles Angels,12,1,1,13
+824203,2026-04-25T23:10:00Z,117,147,Houston Astros,New York Yankees,3,8,0,11
+823799,2026-04-25T23:10:00Z,158,134,Milwaukee Brewers,Pittsburgh Pirates,3,6,0,9
+824527,2026-04-25T23:15:00Z,113,116,Cincinnati Reds,Detroit Tigers,9,2,1,11
+823960,2026-04-25T23:15:00Z,119,112,Los Angeles Dodgers,Chicago Cubs,12,4,1,16
+824933,2026-04-25T23:15:00Z,144,143,Atlanta Braves,Philadelphia Phillies,5,8,0,13
+824776,2026-04-20T15:10:00Z,111,116,Boston Red Sox,Detroit Tigers,8,6,1,14
+824450,2026-04-20T22:10:00Z,114,117,Cleveland Guardians,Houston Astros,2,9,0,11
+822994,2026-04-20T22:40:00Z,139,113,Tampa Bay Rays,Cincinnati Reds,1,6,0,7
+823879,2026-04-20T22:40:00Z,146,138,Miami Marlins,St. Louis Cardinals,5,3,1,8
+822749,2026-04-20T22:45:00Z,120,144,Washington Nationals,Atlanta Braves,4,9,0,13
+824125,2026-04-20T23:40:00Z,118,110,Kansas City Royals,Baltimore Orioles,5,7,0,12
+824692,2026-04-20T23:40:00Z,112,143,Chicago Cubs,Philadelphia Phillies,5,1,1,6
+824370,2026-04-21T00:40:00Z,115,119,Colorado Rockies,Los Angeles Dodgers,3,12,0,15
+824046,2026-04-21T01:38:00Z,108,141,Los Angeles Angels,Toronto Blue Jays,2,5,0,7
+823149,2026-04-21T01:40:00Z,136,133,Seattle Mariners,Athletics,4,6,0,10
+824529,2026-04-24T22:40:00Z,113,116,Cincinnati Reds,Detroit Tigers,9,8,1,17
+824854,2026-04-24T23:05:00Z,110,111,Baltimore Orioles,Boston Red Sox,10,3,1,13
+822827,2026-04-24T23:07:00Z,141,114,Toronto Blue Jays,Cleveland Guardians,6,8,0,14
+823638,2026-04-24T23:10:00Z,121,115,New York Mets,Colorado Rockies,3,4,0,7
+822992,2026-04-24T23:10:00Z,139,142,Tampa Bay Rays,Minnesota Twins,6,2,1,8
+824932,2026-04-24T23:15:00Z,144,143,Atlanta Braves,Philadelphia Phillies,5,3,1,8
+824124,2026-04-24T23:40:00Z,118,108,Kansas City Royals,Los Angeles Angels,6,3,1,9
+824611,2026-04-24T23:40:00Z,145,120,Chicago White Sox,Washington Nationals,5,4,1,9
+823800,2026-04-24T23:40:00Z,158,134,Milwaukee Brewers,Pittsburgh Pirates,0,6,0,6
+822909,2026-04-25T00:05:00Z,140,133,Texas Rangers,Athletics,1,8,0,9
+824204,2026-04-25T00:10:00Z,117,147,Houston Astros,New York Yankees,4,12,0,16
+823069,2026-04-25T00:15:00Z,138,136,St. Louis Cardinals,Seattle Mariners,2,3,0,5
+823962,2026-04-25T02:15:00Z,119,112,Los Angeles Dodgers,Chicago Cubs,4,6,0,10
+823232,2026-04-25T02:15:00Z,137,146,San Francisco Giants,Miami Marlins,4,9,0,13
+824852,2026-04-26T17:35:00Z,110,111,Baltimore Orioles,Boston Red Sox,3,5,0,8
+824934,2026-04-26T17:35:00Z,144,143,Atlanta Braves,Philadelphia Phillies,6,2,1,8
+822824,2026-04-26T17:37:00Z,141,114,Toronto Blue Jays,Cleveland Guardians,4,2,1,6
+824528,2026-04-26T17:40:00Z,113,116,Cincinnati Reds,Detroit Tigers,3,8,0,11
+823635,2026-04-26T17:40:00Z,121,115,New York Mets,Colorado Rockies,1,3,0,4
+823637,2026-04-26T17:45:00Z,121,115,New York Mets,Colorado Rockies,0,3,0,3
+822991,2026-04-26T17:40:00Z,139,142,Tampa Bay Rays,Minnesota Twins,4,2,1,6
+824612,2026-04-26T18:10:00Z,145,120,Chicago White Sox,Washington Nationals,1,2,0,3
+824202,2026-04-26T18:10:00Z,117,147,Houston Astros,New York Yankees,7,4,1,11
+823797,2026-04-26T18:10:00Z,158,134,Milwaukee Brewers,Pittsburgh Pirates,5,0,1,5
+823068,2026-04-26T18:15:00Z,138,136,St. Louis Cardinals,Seattle Mariners,2,3,0,5
+822911,2026-04-26T18:35:00Z,140,133,Texas Rangers,Athletics,1,2,0,3
+825094,2026-04-26T20:05:00Z,109,135,Arizona Diamondbacks,San Diego Padres,12,7,1,19
+823230,2026-04-26T20:05:00Z,137,146,San Francisco Giants,Miami Marlins,6,3,1,9
+824122,2026-04-26T20:10:00Z,118,108,Kansas City Royals,Los Angeles Angels,11,9,1,20
+823959,2026-04-26T20:10:00Z,119,112,Los Angeles Dodgers,Chicago Cubs,6,0,1,6
+824446,2026-04-27T22:10:00Z,114,139,Cleveland Guardians,Tampa Bay Rays,2,3,0,5
+823395,2026-04-27T22:40:00Z,134,138,Pittsburgh Pirates,St. Louis Cardinals,2,4,0,6
+822825,2026-04-27T23:07:00Z,141,111,Toronto Blue Jays,Boston Red Sox,0,5,0,5
+823719,2026-04-27T23:40:00Z,142,136,Minnesota Twins,Seattle Mariners,11,4,1,15
+824609,2026-04-27T23:40:00Z,145,108,Chicago White Sox,Los Angeles Angels,8,7,1,15
+822906,2026-04-28T00:05:00Z,140,147,Texas Rangers,New York Yankees,2,4,0,6
+823311,2026-04-28T01:40:00Z,135,112,San Diego Padres,Chicago Cubs,9,7,1,16
+823961,2026-04-28T02:10:00Z,119,146,Los Angeles Dodgers,Miami Marlins,5,4,1,9
+824447,2026-04-28T22:10:00Z,114,139,Cleveland Guardians,Tampa Bay Rays,0,1,0,1
+824849,2026-04-28T22:35:00Z,110,117,Baltimore Orioles,Houston Astros,5,3,1,8
+824526,2026-04-28T22:40:00Z,113,115,Cincinnati Reds,Colorado Rockies,7,2,1,9
+823390,2026-04-28T22:40:00Z,134,138,Pittsburgh Pirates,St. Louis Cardinals,7,11,0,18
+823473,2026-04-28T22:40:00Z,143,137,Philadelphia Phillies,San Francisco Giants,7,0,1,7
+822823,2026-04-28T23:07:00Z,141,111,Toronto Blue Jays,Boston Red Sox,3,0,1,3
+823636,2026-04-28T23:10:00Z,121,120,New York Mets,Washington Nationals,8,0,1,8
+824931,2026-04-28T23:15:00Z,144,116,Atlanta Braves,Detroit Tigers,5,2,1,7
+823716,2026-04-28T23:40:00Z,142,136,Minnesota Twins,Seattle Mariners,1,7,0,8
+824610,2026-04-28T23:40:00Z,145,108,Chicago White Sox,Los Angeles Angels,5,2,1,7
+823798,2026-04-28T23:40:00Z,158,109,Milwaukee Brewers,Arizona Diamondbacks,13,2,1,15
+822908,2026-04-29T00:05:00Z,140,147,Texas Rangers,New York Yankees,2,3,0,5
+825017,2026-04-29T01:40:00Z,133,118,Athletics,Kansas City Royals,1,4,0,5
+823310,2026-04-29T01:40:00Z,135,112,San Diego Padres,Chicago Cubs,3,8,0,11
+823956,2026-04-29T02:10:00Z,119,146,Los Angeles Dodgers,Miami Marlins,1,2,0,3
+824445,2026-04-29T17:10:00Z,114,139,Cleveland Guardians,Tampa Bay Rays,3,1,1,4
+824608,2026-04-29T17:10:00Z,145,108,Chicago White Sox,Los Angeles Angels,3,2,1,5
+823717,2026-04-29T17:40:00Z,142,136,Minnesota Twins,Seattle Mariners,3,5,0,8
+822907,2026-04-29T18:35:00Z,140,147,Texas Rangers,New York Yankees,3,0,1,3
+822821,2026-04-29T19:07:00Z,141,111,Toronto Blue Jays,Boston Red Sox,8,1,1,9
+823958,2026-04-29T19:10:00Z,119,146,Los Angeles Dodgers,Miami Marlins,2,3,0,5
+823312,2026-04-29T20:10:00Z,135,112,San Diego Padres,Chicago Cubs,4,5,0,9
+824525,2026-04-29T22:40:00Z,113,115,Cincinnati Reds,Colorado Rockies,2,13,0,15
+823392,2026-04-29T22:40:00Z,134,138,Pittsburgh Pirates,St. Louis Cardinals,4,5,0,9
+823633,2026-04-29T23:10:00Z,121,120,New York Mets,Washington Nationals,2,14,0,16
+824930,2026-04-29T23:15:00Z,144,116,Atlanta Braves,Detroit Tigers,4,3,1,7
+823796,2026-04-29T23:40:00Z,158,109,Milwaukee Brewers,Arizona Diamondbacks,2,6,0,8
+825015,2026-04-30T01:40:00Z,133,118,Athletics,Kansas City Royals,5,2,1,7
+824929,2026-04-30T16:15:00Z,144,116,Atlanta Braves,Detroit Tigers,2,5,0,7
+824848,2026-04-30T16:35:00Z,110,117,Baltimore Orioles,Houston Astros,10,3,1,13
+824850,2026-04-30T16:40:00Z,110,117,Baltimore Orioles,Houston Astros,5,11,0,16
+823391,2026-04-30T16:35:00Z,134,138,Pittsburgh Pirates,St. Louis Cardinals,5,10,0,15
+823472,2026-04-30T16:35:00Z,143,137,Philadelphia Phillies,San Francisco Giants,3,2,1,5
+823471,2026-04-30T21:35:00Z,143,137,Philadelphia Phillies,San Francisco Giants,6,5,1,11
+824524,2026-04-30T16:40:00Z,113,115,Cincinnati Reds,Colorado Rockies,6,4,1,10
+823634,2026-04-30T17:10:00Z,121,120,New York Mets,Washington Nationals,4,5,0,9
+823795,2026-04-30T17:40:00Z,158,109,Milwaukee Brewers,Arizona Diamondbacks,13,1,1,14
+825016,2026-04-30T19:05:00Z,133,118,Athletics,Kansas City Royals,6,3,1,9
+823714,2026-04-30T23:40:00Z,142,141,Minnesota Twins,Toronto Blue Jays,7,1,1,8
+824686,2026-05-01T18:20:00Z,112,109,Chicago Cubs,Arizona Diamondbacks,6,5,1,11
+824287,2026-05-01T22:40:00Z,116,140,Detroit Tigers,Texas Rangers,4,5,0,9
+823389,2026-05-01T22:45:00Z,134,113,Pittsburgh Pirates,Cincinnati Reds,9,1,1,10
+822744,2026-05-01T22:45:00Z,120,158,Washington Nationals,Milwaukee Brewers,1,6,0,7
+823557,2026-05-01T23:05:00Z,147,110,New York Yankees,Baltimore Orioles,7,2,1,9
+824772,2026-05-01T23:10:00Z,111,117,Boston Red Sox,Houston Astros,3,1,1,4
+822990,2026-05-01T23:10:00Z,139,137,Tampa Bay Rays,San Francisco Giants,3,0,1,3
+823877,2026-05-01T23:10:00Z,146,143,Miami Marlins,Philadelphia Phillies,5,6,0,11
+823713,2026-05-02T00:10:00Z,142,141,Minnesota Twins,Toronto Blue Jays,3,7,0,10
+823066,2026-05-02T00:15:00Z,138,119,St. Louis Cardinals,Los Angeles Dodgers,7,2,1,9
+824366,2026-05-02T00:40:00Z,115,144,Colorado Rockies,Atlanta Braves,6,8,0,14
+824041,2026-05-02T01:38:00Z,108,121,Los Angeles Angels,New York Mets,3,4,0,7
+825012,2026-05-02T01:40:00Z,133,114,Athletics,Cleveland Guardians,5,8,0,13
+823309,2026-05-02T01:40:00Z,135,145,San Diego Padres,Chicago White Sox,2,8,0,10
+823146,2026-05-02T01:45:00Z,136,118,Seattle Mariners,Kansas City Royals,6,7,0,13
+823554,2026-05-02T17:35:00Z,147,110,New York Yankees,Baltimore Orioles,9,4,1,13
+823715,2026-05-02T18:10:00Z,142,141,Minnesota Twins,Toronto Blue Jays,4,11,0,15
+824685,2026-05-02T18:20:00Z,112,109,Chicago Cubs,Arizona Diamondbacks,2,0,1,2
+825014,2026-05-02T20:05:00Z,133,114,Athletics,Cleveland Guardians,6,14,0,20
+823388,2026-05-02T20:05:00Z,134,113,Pittsburgh Pirates,Cincinnati Reds,17,7,1,24
+822746,2026-05-02T20:05:00Z,120,158,Washington Nationals,Milwaukee Brewers,1,4,0,5
+824771,2026-05-02T20:10:00Z,111,117,Boston Red Sox,Houston Astros,3,6,0,9
+823876,2026-05-02T20:10:00Z,146,143,Miami Marlins,Philadelphia Phillies,4,0,1,4
+822988,2026-05-02T22:10:00Z,139,137,Tampa Bay Rays,San Francisco Giants,5,1,1,6
+823067,2026-05-02T23:15:00Z,138,119,St. Louis Cardinals,Los Angeles Dodgers,3,2,1,5
+824284,2026-05-02T23:15:00Z,116,140,Detroit Tigers,Texas Rangers,5,1,1,6
+824365,2026-05-03T00:10:00Z,115,144,Colorado Rockies,Atlanta Braves,1,9,0,10
+823308,2026-05-03T00:40:00Z,135,145,San Diego Padres,Chicago White Sox,0,4,0,4
+824042,2026-05-03T01:38:00Z,108,121,Los Angeles Angels,New York Mets,4,3,1,7
+823144,2026-05-03T01:40:00Z,136,118,Seattle Mariners,Kansas City Royals,2,3,0,5
+823711,2026-05-03T16:45:00Z,142,141,Minnesota Twins,Toronto Blue Jays,4,3,1,7
+824769,2026-05-03T17:35:00Z,111,117,Boston Red Sox,Houston Astros,1,3,0,4
+823387,2026-05-03T17:35:00Z,134,113,Pittsburgh Pirates,Cincinnati Reds,1,0,1,1
+823555,2026-05-03T17:35:00Z,147,110,New York Yankees,Baltimore Orioles,11,3,1,14
+822742,2026-05-03T17:35:00Z,120,158,Washington Nationals,Milwaukee Brewers,3,2,1,5
+822987,2026-05-03T17:40:00Z,139,137,Tampa Bay Rays,San Francisco Giants,2,1,1,3
+823875,2026-05-03T17:40:00Z,146,143,Miami Marlins,Philadelphia Phillies,2,7,0,9
+823065,2026-05-03T18:15:00Z,138,119,St. Louis Cardinals,Los Angeles Dodgers,1,4,0,5
+824687,2026-05-03T18:20:00Z,112,109,Chicago Cubs,Arizona Diamondbacks,8,4,1,12
+824364,2026-05-03T19:10:00Z,115,144,Colorado Rockies,Atlanta Braves,6,11,0,17
+825013,2026-05-03T20:05:00Z,133,114,Athletics,Cleveland Guardians,7,1,1,8
+824043,2026-05-03T20:07:00Z,108,121,Los Angeles Angels,New York Mets,1,5,0,6
+823145,2026-05-03T20:10:00Z,136,118,Seattle Mariners,Kansas City Royals,1,4,0,5
+823307,2026-05-03T20:10:00Z,135,145,San Diego Padres,Chicago White Sox,4,3,1,7
+824285,2026-05-03T23:20:00Z,116,140,Detroit Tigers,Texas Rangers,7,1,1,8
+824363,2026-05-04T21:40:00Z,115,121,Colorado Rockies,New York Mets,2,4,0,6
+824283,2026-05-04T22:10:00Z,116,111,Detroit Tigers,Boston Red Sox,4,5,0,9
+822984,2026-05-04T22:40:00Z,139,141,Tampa Bay Rays,Toronto Blue Jays,5,1,1,6
+823874,2026-05-04T22:40:00Z,146,143,Miami Marlins,Philadelphia Phillies,0,1,0,1
+823552,2026-05-04T23:05:00Z,147,110,New York Yankees,Baltimore Orioles,12,1,1,13
+824684,2026-05-04T23:10:00Z,112,113,Chicago Cubs,Cincinnati Reds,5,4,1,9
+824120,2026-05-04T23:40:00Z,118,114,Kansas City Royals,Cleveland Guardians,6,2,1,8
+823064,2026-05-04T23:45:00Z,138,158,St. Louis Cardinals,Milwaukee Brewers,6,3,1,9
+824201,2026-05-05T00:10:00Z,117,119,Houston Astros,Los Angeles Dodgers,3,8,0,11
+824039,2026-05-05T01:38:00Z,108,145,Los Angeles Angels,Chicago White Sox,0,6,0,6
+823143,2026-05-05T01:40:00Z,136,144,Seattle Mariners,Atlanta Braves,5,4,1,9
+823228,2026-05-05T01:45:00Z,137,135,San Francisco Giants,San Diego Padres,3,2,1,5
+824940,2026-04-01T16:15:00Z,144,133,Atlanta Braves,Athletics,5,1,1,6
+824860,2026-04-01T16:35:00Z,110,140,Baltimore Orioles,Texas Rangers,8,3,1,11
+824536,2026-04-01T16:40:00Z,113,134,Cincinnati Reds,Pittsburgh Pirates,3,8,0,11
+823483,2026-04-01T17:05:00Z,143,120,Philadelphia Phillies,Washington Nationals,6,5,1,11
+822835,2026-04-01T17:07:00Z,141,115,Toronto Blue Jays,Colorado Rockies,1,2,0,3
+823889,2026-04-01T17:10:00Z,146,145,Miami Marlins,Chicago White Sox,10,0,1,10
+823078,2026-04-01T17:15:00Z,138,121,St. Louis Cardinals,New York Mets,2,1,1,3
+823806,2026-04-01T17:40:00Z,158,139,Milwaukee Brewers,Tampa Bay Rays,8,2,1,10
+824211,2026-04-01T18:10:00Z,117,111,Houston Astros,Boston Red Sox,6,4,1,10
+824698,2026-04-01T18:20:00Z,112,108,Chicago Cubs,Los Angeles Angels,6,2,1,8
+825106,2026-04-01T19:40:00Z,109,116,Arizona Diamondbacks,Detroit Tigers,1,0,1,1
+823321,2026-04-01T20:10:00Z,135,137,San Diego Padres,San Francisco Giants,7,1,1,8
+823157,2026-04-01T20:10:00Z,136,147,Seattle Mariners,New York Yankees,3,5,0,8
+824136,2026-04-01T23:40:00Z,118,142,Kansas City Royals,Minnesota Twins,13,9,1,22
+823970,2026-04-02T00:20:00Z,119,114,Los Angeles Dodgers,Cleveland Guardians,1,4,0,5
+824281,2026-05-05T22:40:00Z,116,111,Detroit Tigers,Boston Red Sox,3,10,0,13
+822986,2026-05-05T22:40:00Z,139,141,Tampa Bay Rays,Toronto Blue Jays,4,3,1,7
+823469,2026-05-05T22:40:00Z,143,133,Philadelphia Phillies,Athletics,9,1,1,10
+823873,2026-05-05T22:40:00Z,146,110,Miami Marlins,Baltimore Orioles,7,9,0,16
+822743,2026-05-05T22:45:00Z,120,142,Washington Nationals,Minnesota Twins,3,11,0,14
+823553,2026-05-05T23:05:00Z,147,140,New York Yankees,Texas Rangers,7,4,1,11
+824682,2026-05-05T23:40:00Z,112,113,Chicago Cubs,Cincinnati Reds,3,2,1,5
+824119,2026-05-05T23:40:00Z,118,114,Kansas City Royals,Cleveland Guardians,5,3,1,8
+824200,2026-05-06T00:10:00Z,117,119,Houston Astros,Los Angeles Dodgers,2,1,1,3
+824040,2026-05-06T01:38:00Z,108,145,Los Angeles Angels,Chicago White Sox,4,3,1,7
+825092,2026-05-06T01:40:00Z,109,134,Arizona Diamondbacks,Pittsburgh Pirates,9,0,1,9
+823142,2026-05-06T01:40:00Z,136,144,Seattle Mariners,Atlanta Braves,2,3,0,5
+823227,2026-05-06T01:45:00Z,137,135,San Francisco Giants,San Diego Padres,5,10,0,15
+822985,2026-05-06T17:10:00Z,139,141,Tampa Bay Rays,Toronto Blue Jays,3,0,1,3
+823063,2026-05-06T17:15:00Z,138,158,St. Louis Cardinals,Milwaukee Brewers,2,6,0,8
+824198,2026-05-06T18:10:00Z,117,119,Houston Astros,Los Angeles Dodgers,2,12,0,14
+823226,2026-05-06T19:45:00Z,137,135,San Francisco Giants,San Diego Padres,1,5,0,6
+824036,2026-05-06T20:07:00Z,108,145,Los Angeles Angels,Chicago White Sox,8,2,1,10
+823141,2026-05-06T20:10:00Z,136,144,Seattle Mariners,Atlanta Braves,3,1,1,4
+824282,2026-05-06T22:40:00Z,116,111,Detroit Tigers,Boston Red Sox,0,4,0,4
+823470,2026-05-06T22:40:00Z,143,133,Philadelphia Phillies,Athletics,6,3,1,9
+823872,2026-05-06T22:40:00Z,146,110,Miami Marlins,Baltimore Orioles,4,7,0,11
+822740,2026-05-06T22:45:00Z,120,142,Washington Nationals,Minnesota Twins,15,2,1,17
+823550,2026-05-06T23:05:00Z,147,140,New York Yankees,Texas Rangers,1,6,0,7
+824683,2026-05-06T23:40:00Z,112,113,Chicago Cubs,Cincinnati Reds,7,6,1,13
+824118,2026-05-06T23:40:00Z,118,114,Kansas City Royals,Cleveland Guardians,1,3,0,4
+824361,2026-05-07T01:20:00Z,115,121,Colorado Rockies,New York Mets,5,10,0,15
+825091,2026-05-07T01:40:00Z,109,134,Arizona Diamondbacks,Pittsburgh Pirates,0,1,0,1
+823551,2026-05-07T16:35:00Z,147,140,New York Yankees,Texas Rangers,9,2,1,11
+822741,2026-05-07T17:05:00Z,120,142,Washington Nationals,Minnesota Twins,7,5,1,12
+824117,2026-05-07T18:10:00Z,118,114,Kansas City Royals,Cleveland Guardians,5,8,0,13
+824681,2026-05-07T18:20:00Z,112,113,Chicago Cubs,Cincinnati Reds,8,3,1,11
+824362,2026-05-07T19:10:00Z,115,121,Colorado Rockies,New York Mets,6,2,1,8
+825090,2026-05-07T19:40:00Z,109,134,Arizona Diamondbacks,Pittsburgh Pirates,2,4,0,6
+823467,2026-05-07T22:40:00Z,143,133,Philadelphia Phillies,Athletics,1,12,0,13
+823870,2026-05-07T22:40:00Z,146,110,Miami Marlins,Baltimore Orioles,4,3,1,7
+824767,2026-05-07T23:10:00Z,111,139,Boston Red Sox,Tampa Bay Rays,4,8,0,12
+823306,2026-05-08T02:10:00Z,135,138,San Diego Padres,St. Louis Cardinals,1,2,0,3
+824522,2026-05-08T22:10:00Z,113,117,Cincinnati Reds,Houston Astros,0,10,0,10
+823466,2026-05-08T22:40:00Z,143,115,Philadelphia Phillies,Colorado Rockies,7,9,0,16
+824846,2026-05-08T23:05:00Z,110,133,Baltimore Orioles,Athletics,3,4,0,7
+822822,2026-05-08T23:07:00Z,141,108,Toronto Blue Jays,Los Angeles Angels,2,0,1,2
+824768,2026-05-08T23:10:00Z,111,139,Boston Red Sox,Tampa Bay Rays,2,0,1,2
+823871,2026-05-08T23:10:00Z,146,120,Miami Marlins,Washington Nationals,2,3,0,5
+824443,2026-05-08T23:15:00Z,114,142,Cleveland Guardians,Minnesota Twins,6,4,1,10
+824116,2026-05-08T23:40:00Z,118,116,Kansas City Royals,Detroit Tigers,4,3,1,7
+824607,2026-05-08T23:40:00Z,145,136,Chicago White Sox,Seattle Mariners,8,12,0,20
+823794,2026-05-08T23:40:00Z,158,147,Milwaukee Brewers,New York Yankees,6,0,1,6
+822904,2026-05-09T00:05:00Z,140,112,Texas Rangers,Chicago Cubs,1,7,0,8
+825088,2026-05-09T01:40:00Z,109,121,Arizona Diamondbacks,New York Mets,1,3,0,4
+823303,2026-05-09T01:45:00Z,135,138,San Diego Padres,St. Louis Cardinals,0,6,0,6
+823957,2026-05-09T02:10:00Z,119,144,Los Angeles Dodgers,Atlanta Braves,3,1,1,4
+823225,2026-05-09T02:15:00Z,137,134,San Francisco Giants,Pittsburgh Pirates,5,2,1,7
+822820,2026-05-09T19:07:00Z,141,108,Toronto Blue Jays,Los Angeles Angels,14,1,1,15
+824847,2026-05-09T20:05:00Z,110,133,Baltimore Orioles,Athletics,2,6,0,8
+824523,2026-05-09T20:10:00Z,113,117,Cincinnati Reds,Houston Astros,3,1,1,4
+823869,2026-05-09T20:10:00Z,146,120,Miami Marlins,Washington Nationals,8,7,1,15
+823468,2026-05-09T22:05:00Z,143,115,Philadelphia Phillies,Colorado Rockies,9,3,1,12
+824444,2026-05-09T22:10:00Z,114,142,Cleveland Guardians,Minnesota Twins,1,2,0,3
+822905,2026-05-09T23:05:00Z,140,112,Texas Rangers,Chicago Cubs,6,0,1,6
+824115,2026-05-09T23:10:00Z,118,116,Kansas City Royals,Detroit Tigers,5,1,1,6
+824606,2026-05-09T23:10:00Z,145,136,Chicago White Sox,Seattle Mariners,6,1,1,7
+823792,2026-05-09T23:10:00Z,158,147,Milwaukee Brewers,New York Yankees,4,3,1,7
+825089,2026-05-09T23:15:00Z,109,121,Arizona Diamondbacks,New York Mets,2,1,1,3
+823304,2026-05-09T23:15:00Z,135,138,San Diego Padres,St. Louis Cardinals,4,2,1,6
+823224,2026-05-10T01:05:00Z,137,134,San Francisco Giants,Pittsburgh Pirates,3,13,0,16
+823955,2026-05-10T01:10:00Z,119,144,Los Angeles Dodgers,Atlanta Braves,2,7,0,9
+823868,2026-05-10T16:15:00Z,146,120,Miami Marlins,Washington Nationals,5,2,1,7
+824845,2026-05-10T17:35:00Z,110,133,Baltimore Orioles,Athletics,2,1,1,3
+824765,2026-05-10T17:35:00Z,111,139,Boston Red Sox,Tampa Bay Rays,1,4,0,5
+823463,2026-05-10T17:35:00Z,143,115,Philadelphia Phillies,Colorado Rockies,6,0,1,6
+822819,2026-05-10T17:37:00Z,141,108,Toronto Blue Jays,Los Angeles Angels,1,6,0,7
+824520,2026-05-10T17:40:00Z,113,117,Cincinnati Reds,Houston Astros,5,0,1,5
+824440,2026-05-10T17:40:00Z,114,142,Cleveland Guardians,Minnesota Twins,4,5,0,9
+824605,2026-05-10T18:10:00Z,145,136,Chicago White Sox,Seattle Mariners,2,1,1,3
+823793,2026-05-10T18:10:00Z,158,147,Milwaukee Brewers,New York Yankees,4,3,1,7
+822902,2026-05-10T18:35:00Z,140,112,Texas Rangers,Chicago Cubs,3,0,1,3
+823221,2026-05-10T20:05:00Z,137,134,San Francisco Giants,Pittsburgh Pirates,7,6,1,13
+825085,2026-05-10T20:10:00Z,109,121,Arizona Diamondbacks,New York Mets,5,1,1,6
+823305,2026-05-10T20:10:00Z,135,138,San Diego Padres,St. Louis Cardinals,3,2,1,5
+823954,2026-05-10T20:10:00Z,119,144,Los Angeles Dodgers,Atlanta Braves,2,7,0,9
+824113,2026-05-10T23:20:00Z,118,116,Kansas City Royals,Detroit Tigers,3,6,0,9
+824441,2026-05-11T22:10:00Z,114,108,Cleveland Guardians,Los Angeles Angels,7,2,1,9
+824844,2026-05-11T22:35:00Z,110,147,Baltimore Orioles,New York Yankees,3,2,1,5
+822818,2026-05-11T23:07:00Z,141,139,Toronto Blue Jays,Tampa Bay Rays,5,8,0,13
+822901,2026-05-12T00:05:00Z,140,109,Texas Rangers,Arizona Diamondbacks,0,1,0,1
+824199,2026-05-12T00:10:00Z,117,136,Houston Astros,Seattle Mariners,1,3,0,4
+823953,2026-05-12T02:10:00Z,119,137,Los Angeles Dodgers,San Francisco Giants,3,9,0,12
+744932,2024-06-01T19:07:00Z,141,134,Toronto Blue Jays,Pittsburgh Pirates,1,8,0,9
+747029,2024-06-01T20:05:00Z,110,139,Baltimore Orioles,Tampa Bay Rays,9,5,1,14
+746952,2024-06-01T20:10:00Z,111,116,Boston Red Sox,Detroit Tigers,6,3,1,9
+746629,2024-06-01T20:10:00Z,114,120,Cleveland Guardians,Washington Nationals,3,2,1,5
+745812,2024-06-01T20:10:00Z,121,109,New York Mets,Arizona Diamondbacks,5,10,0,15
+746305,2024-06-01T20:10:00Z,118,135,Kansas City Royals,San Diego Padres,3,7,0,10
+746384,2024-06-01T20:10:00Z,117,142,Houston Astros,Minnesota Twins,5,2,1,7
+747111,2024-06-01T20:10:00Z,144,133,Atlanta Braves,Oakland Athletics,9,11,0,20
+746062,2024-06-01T20:10:00Z,146,140,Miami Marlins,Texas Rangers,0,7,0,7
+745980,2024-06-01T20:10:00Z,158,145,Milwaukee Brewers,Chicago White Sox,4,3,1,7
+746870,2024-06-01T23:15:00Z,112,113,Chicago Cubs,Cincinnati Reds,7,5,1,12
+745251,2024-06-01T23:15:00Z,136,108,Seattle Mariners,Los Angeles Angels,9,0,1,9
+745575,2024-06-01T23:15:00Z,143,138,Philadelphia Phillies,St. Louis Cardinals,6,1,1,7
+745332,2024-06-02T02:05:00Z,137,147,San Francisco Giants,New York Yankees,3,7,0,10
+746138,2024-06-02T02:10:00Z,119,115,Los Angeles Dodgers,Colorado Rockies,4,1,1,5
