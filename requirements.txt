@@ -1,5 +1,7 @@
 # 1.36+ improves widget identity / fragment behavior (fewer blank-page + Button chunk issues).
 streamlit>=1.36.0
+# IANA time zone database for Linux/Streamlit Cloud (ZoneInfo needs this without full OS tzdata).
+tzdata>=2024.1
 pandas>=2.0.0
 numpy>=1.24.0
 scipy>=1.11.0

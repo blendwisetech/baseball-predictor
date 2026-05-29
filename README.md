@@ -18,9 +18,12 @@ From the **repository root** (the folder that contains `app/`, `ml/`, and this `
 streamlit run streamlit_app.py
 ```
 
-**Streamlit Cloud:** set **Main file path** to `streamlit_app.py` (not `app/main.py`), so imports resolve from the repo root.
+**Streamlit Cloud:** set **Main file path** to `streamlit_app.py` (not `app/main.py`), so imports resolve from the repo root. If you only see **“Oh no”**, open **Manage app → Logs**; missing **`tzdata`** on Linux breaks `ZoneInfo` at import — `requirements.txt` includes **`tzdata`**. Redeploy after `git pull`.
 
-You can also use `streamlit run app/main.py` **only after** `cd` into the repo root; running it from `C:\\Users\\...` without changing directory will fail with “file does not exist”.
+You can also use `streamlit run app/main.py` **only after** `cd` into the repo root; running it from your home directory without `cd` will fail with “file does not exist”.
+
+Other commands (from repo root, venv activated):
+
 - **Merge training data:** `python -m ml.merge_training_data`
 - **Train win model:** `python -m ml.train_win_model`
 - **Evaluate:** `python -m ml.evaluate_models`
