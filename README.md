@@ -23,4 +23,4 @@ CSV/Parquet under `data/` are local logs and processed tables; add your own or r
 
 ## License
 
-Private / personal use unless you add a license.
+Repository is public; add a `LICENSE` file if you want explicit terms.
