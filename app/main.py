@@ -1,8 +1,12 @@
 """
 Baseball Prediction App — Streamlit entrypoint.
 
-Run from the `baseball_predictor` directory:
-  pip install -r requirements.txt
+Prefer the repo-root launcher (``sys.path`` + Streamlit Cloud):
+
+  streamlit run streamlit_app.py
+
+Or from the repository root only:
+
   streamlit run app/main.py
 """
 

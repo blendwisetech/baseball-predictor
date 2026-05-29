@@ -12,7 +12,15 @@ pip install -r requirements.txt
 
 ## Run
 
-- **Streamlit app:** `streamlit run app/main.py` (or your Cloud entry script if you mirror this repo there).
+From the **repository root** (the folder that contains `app/`, `ml/`, and this `README.md`):
+
+```bash
+streamlit run streamlit_app.py
+```
+
+**Streamlit Cloud:** set **Main file path** to `streamlit_app.py` (not `app/main.py`), so imports resolve from the repo root.
+
+You can also use `streamlit run app/main.py` **only after** `cd` into the repo root; running it from `C:\\Users\\...` without changing directory will fail with “file does not exist”.
 - **Merge training data:** `python -m ml.merge_training_data`
 - **Train win model:** `python -m ml.train_win_model`
 - **Evaluate:** `python -m ml.evaluate_models`
