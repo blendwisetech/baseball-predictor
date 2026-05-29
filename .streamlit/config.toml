@@ -6,9 +6,11 @@ gatherUsageStats = false
 
 [server]
 # Dedicated port so this app does not fight other local Streamlit apps (default 8501).
+# If you see "Port 8510 is not available", close the other Streamlit terminal or run:
+#   streamlit run streamlit_app.py --server.port 8512
 port = 8510
-# Helps some corporate proxies; tune if you need CORS for remote embedding.
-enableCORS = false
+# Do not set enableCORS=false here: Streamlit enables XSRF protection by default and will
+# override CORS anyway (see warning in terminal). Use defaults for local dev.
 
 [runner]
 # Avoid surprising auto-reruns while widgets settle (can interact badly with some browsers).
