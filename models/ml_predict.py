@@ -15,6 +15,8 @@ from typing import Any
 import joblib
 import numpy as np
 import pandas as pd
+import pickle
+import warnings
 
 from ml.calibration_utils import apply_marginal_shrink, apply_registry_tail_calibration, apply_temperature
 from ml.feature_config import dataframe_X, enriched_row_to_feature_vector
@@ -27,12 +29,30 @@ def _sklearn_X_matrix(X: pd.DataFrame) -> np.ndarray:
 
 
 def _bundle(rel_path: str | None) -> dict[str, Any] | None:
+    """
+    Load a joblib bundle from ``ROOT / rel_path``.
+
+    Unpickling can fail on Streamlit Cloud when Python / numpy / sklearn do not match the
+    environment that created the artifact (``ModuleNotFoundError`` inside ``pickle``). Return
+    ``None`` so the app can fall back to heuristics instead of crashing.
+    """
     if not rel_path:
         return None
     p = ROOT / rel_path
     if not p.exists():
         return None
-    return joblib.load(p)
+    try:
+        return joblib.load(p)
+    except (
+        ModuleNotFoundError,
+        AttributeError,
+        OSError,
+        EOFError,
+        ValueError,
+        pickle.UnpicklingError,
+    ) as e:
+        warnings.warn(f"Skipping model bundle {p}: {type(e).__name__}: {e}", stacklevel=2)
+        return None
 
 
 def load_production_pipelines() -> tuple[dict[str, Any], dict[str, Any] | None, dict[str, Any] | None]:

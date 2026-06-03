@@ -3,9 +3,11 @@ streamlit>=1.36.0
 # IANA time zone database for Linux/Streamlit Cloud (ZoneInfo needs this without full OS tzdata).
 tzdata>=2024.1
 pandas>=2.0.0
-numpy>=1.24.0
+# Joblib/sklearn bundles in this repo were built with NumPy 2.x; NumPy 1.x on Cloud breaks unpickling (numpy._core).
+numpy>=2.0.0,<2.3.0
 scipy>=1.11.0
-scikit-learn>=1.3.0
+# Keep sklearn in a narrow band so Cloud pip does not drift from the stack used to train joblibs.
+scikit-learn>=1.5.0,<1.7.0
 joblib>=1.3.0
 pyarrow>=14.0.0
 requests>=2.31.0

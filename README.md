@@ -20,6 +20,8 @@ streamlit run streamlit_app.py
 
 **Streamlit Cloud:** set **Main file path** to `streamlit_app.py` (not `app/main.py`), so imports resolve from the repo root. If you only see **“Oh no”**, open **Manage app → Logs**; missing **`tzdata`** on Linux breaks `ZoneInfo` at import — `requirements.txt` includes **`tzdata`**. Redeploy after `git pull`.
 
+**Joblib models (`data/models/*.joblib`):** unpickling needs a **similar Python / NumPy / scikit-learn** stack to the one that trained them. If logs show ``ModuleNotFoundError`` inside ``pickle`` when loading bundles, set Cloud **Python 3.12** (Advanced settings), redeploy, or retrain in a matching env and push new joblibs.
+
 You can also use `streamlit run app/main.py` **only after** `cd` into the repo root; running it from your home directory without `cd` will fail with “file does not exist”.
 
 Other commands (from repo root, venv activated):
